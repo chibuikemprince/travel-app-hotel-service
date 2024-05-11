@@ -5,7 +5,7 @@ import { config } from 'dotenv';
 config();
 
 @Module({
-  imports: [MongooseModule.forRoot(process.env.db), HotelModule],
+  imports: [MongooseModule.forRoot(process.env.DB), HotelModule],
   controllers: [],
   providers: [],
 })
