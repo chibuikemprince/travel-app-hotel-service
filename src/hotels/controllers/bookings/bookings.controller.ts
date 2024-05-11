@@ -10,7 +10,7 @@ import {
 } from '@nestjs/common';
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { HotelService } from '../../services/bookings/bookings.service';
-import { CreateHotelDto } from 'src/hotels/dto/Hotel-data';
+import { CreateHotelDto } from 'src/hotels/dto/hotel-data';
 import { JwtAuthGuard } from 'src/hotels/guards/auth/auth.guard';
 import { Request } from 'express';
 
