@@ -10,6 +10,8 @@ Next.js, Node.js, TypeScript, MongoDB, and RabbitMQ are the key technologies use
 
 TypeScript enhances code maintainability and developer productivity, ensuring a reliable and bug-free application. MongoDB offers efficient data storage for hotel information, user details, and booking history. RabbitMQ facilitates seamless communication between different services, ensuring reliable and efficient message delivery for sending email notifications to users.
 
+Live URL: https://travel-app-hotel-service.onrender.com
+
 ## Installation
 
 ```bash
